@@ -1,0 +1,7 @@
+FAQ (Dummy Text)
+
+Q: How do I reset my password?
+A: Use the self-service password reset tool on the portal.
+
+Q: How can I request document access?
+A: Submit a request through the internal request submission system.
