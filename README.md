@@ -1,5 +1,8 @@
 # RAG-Based Intelligent Query Assistant
 
+![RAG Workflow](rag_workflow.png)
+
+
 This project demonstrates how a Retrieval-Augmented Generation (RAG) workflow can be used to answer user queries on document collections with better accuracy and lower hallucination rates.
 
 It is designed from a Business Analyst + AI Analyst perspective, focusing on evaluation, prompt design, and information retrieval quality.
