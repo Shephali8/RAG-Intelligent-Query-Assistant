@@ -1,0 +1,10 @@
+Evaluate the model-generated answer.
+
+Check:
+1. Accuracy  
+2. Groundedness  
+3. Hallucinations  
+4. Completeness  
+
+Provide a final rating:
+Accurate / Partially Accurate / Inaccurate
