@@ -1,0 +1,10 @@
+Sample Policy Document (Dummy Text)
+
+Section 1: Eligibility
+Users must complete identity verification for access.
+
+Section 2: Access Rules
+All users must follow internal guidelines for data usage and confidentiality.
+
+Section 3: Support
+Support is available Monday–Friday via internal helpdesk.
